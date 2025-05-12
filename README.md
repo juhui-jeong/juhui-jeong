@@ -38,11 +38,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=juhui-jeong&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-## ☘️ GitHub Contributions Calendar
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=juhui-jeong&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
 ## 📫 Contact
 - Email: juhuiinthecode@gmail.com
 - LinkedIn: https://www.linkedin.com/in/juhui-jeong-5190a91bb
