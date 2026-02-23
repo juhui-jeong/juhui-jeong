@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 ## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=juhui-jeong&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juhui-jeong&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 - Email: juhuiinthecode@gmail.com
