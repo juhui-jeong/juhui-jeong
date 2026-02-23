@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juhui-jeong&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-status.vercel.app/api?username=juhui-jeong&show_icons=true&theme=tokyonight" alt="GitHub status" />
 </p>
 
 ## 📫 Contact
